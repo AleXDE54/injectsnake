@@ -45,7 +45,3 @@ A self-contained, zero-dependency Snake game disguised as a single line of JavaS
 | `D` / `→` | Move right |
 | `Space` | Pause / Resume |
 | `Esc` | Close game |
-
-## The Code
-
-Paste this into your browser console:
